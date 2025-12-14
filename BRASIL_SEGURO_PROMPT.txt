@@ -1,0 +1,13 @@
+BRASIL SEGURO - PROMPT OFICIAL Z.AI
+
+Este arquivo contém o PROMPT ÚNICO COMPLETO do projeto BRASIL SEGURO,
+incluindo:
+- Texto comercial
+- Texto jurídico
+- Conformidade LGPD
+- Perfil Usuário
+- Perfil Dono/Admin Master
+- Poder de criação de usuários isentos de pagamento
+- Limitações legais e operacionais
+
+Cole este conteúdo diretamente na plataforma z.ai.
